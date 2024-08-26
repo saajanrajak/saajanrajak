@@ -6,5 +6,9 @@ Currently, I’m diving into the world of NLP models— **funny how machines can
 
 
 ## Bio
-- Graduated from IIT Bombay
+- Graduated from IIT Bombay, India
 - Currently Located Bengaluru
+
+
+
+![Saajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saajanrajak&hide=contribs,prs)
