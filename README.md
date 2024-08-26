@@ -6,5 +6,5 @@ Currently, I’m diving into the world of NLP models—funny how machines can ge
 
 
 ## Bio
-- Graduatede from IIT Bombay
+- Graduated from IIT Bombay
 - Currently Located Bengaluru
