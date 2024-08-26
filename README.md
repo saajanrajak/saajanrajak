@@ -11,4 +11,4 @@ Currently, I’m diving into the world of NLP models— **funny how machines can
 
 
 
-![Saajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saajanrajak&hide=contribs,prs)
+![Saajan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saajanrajak&hide=contribs,prs&theme=radical)
